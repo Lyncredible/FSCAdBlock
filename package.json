@@ -1,0 +1,13 @@
+{
+  "title": "FreeStockCharts Ads Blocker",
+  "name": "fscadblock",
+  "version": "0.0.1",
+  "description": "Blocks the ads in FreeStockCharts",
+  "main": "index.js",
+  "author": "Lyncredible",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
